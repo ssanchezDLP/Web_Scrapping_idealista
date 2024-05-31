@@ -1,0 +1,44 @@
+,titulo,precio,ubicacion,direccion,ascensor,baño,trastero,piso,habitaciones,metros,armarios_empotrados,terraza,balcon,garaje,calefaccion,aire_acondicionado
+0,Piso en venta en calle de la Corredera Baja,57000,San Martín de Valdeiglesias,"['Calle de la Corredera Baja', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,3.0,58,1,1,0,0,1,0
+1,Chalet pareado en venta en San Martín de Valdeiglesias,145000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,1,4 plantas,5.0,197,1,0,1,0,1,1
+2,Chalet adosado en venta en San Martín de Valdeiglesias,120000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,,3.0,76,0,0,0,1,0,0
+3,Piso en venta en San Martín de Valdeiglesias,89900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 1ª exterior,3.0,87,1,1,0,0,1,1
+4,Chalet adosado en venta en San Martín de Valdeiglesias,129900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,2 plantas,2.0,127,1,1,1,0,1,0
+5,Piso en venta en San Martín de Valdeiglesias,90000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 1ª exterior,2.0,65,0,1,0,0,0,0
+6,Piso en venta en calle de Colon,79500,San Martín de Valdeiglesias,"['Calle de Colon', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,Planta 2ª exterior,2.0,55,1,1,1,0,1,0
+7,"Piso en venta en avenida del Galeón, 80",98000,San Martín de Valdeiglesias,"['Avenida del Galeón, 80', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,1.0,50,1,1,0,0,1,1
+8,"Dúplex en venta en plaza Castillo, 15",107000,San Martín de Valdeiglesias,"['Plaza Castillo, 15', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,Planta 1ª exterior,3.0,105,1,0,0,1,1,0
+9,"Piso en venta en Galeon, 80",69000,San Martín de Valdeiglesias,"['GALEON, 80', 'Urb. COSTA MADRID', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 3ª exterior,3.0,60,1,1,0,0,1,0
+10,Chalet adosado en venta en San Martín de Valdeiglesias,115000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,1,5 plantas,8.0,426,0,1,1,1,1,0
+11,Estudio en venta en avenida colon,59900,San Martín de Valdeiglesias,"['Avenida colon', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,Planta 1ª exterior,,40,0,0,0,0,1,1
+12,Piso en venta en carretera de Ávila,54000,San Martín de Valdeiglesias,"['Carretera de Ávila', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,3.0,57,1,1,0,0,1,0
+13,Piso en venta en Corredera Baja,57000,San Martín de Valdeiglesias,"['CORREDERA BAJA', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,3.0,60,1,1,1,0,1,0
+14,"Chalet adosado en venta en rosario, 1",80000,San Martín de Valdeiglesias,"['Rosario, 1', 'Urb. CASCO URBANO', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,,1.0,50,0,0,0,0,0,0
+15,"Casa de pueblo en venta en calle de la Corredera Baja, 9",142000,San Martín de Valdeiglesias,"['Calle de la Corredera Baja, 9', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,3 plantas,4.0,170,0,0,1,0,1,1
+16,"Piso en venta en calle de José López Hermosilla, 2",106000,San Martín de Valdeiglesias,"['Calle de José López Hermosilla, 2', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Bajo exterior,3.0,127,1,0,0,0,1,0
+17,"Piso en venta en calle de Colon, 2",76000,San Martín de Valdeiglesias,"['Calle de Colon, 2', 'Urb. fase 3', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 3ª exterior,2.0,55,1,1,0,0,0,0
+18,Chalet pareado en venta en San Martín de Valdeiglesias,86900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,1,2 plantas,1.0,95,1,1,0,1,1,0
+19,Piso en venta en San Martín de Valdeiglesias,74900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 1ª exterior,2.0,80,1,1,1,0,1,0
+20,Piso en venta en calle del Mediodía Alta,95000,San Martín de Valdeiglesias,"['Calle del Mediodía Alta', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",1.0,1.0,1,Bajo exterior,2.0,52,0,0,0,1,0,0
+21,Piso en venta en calle de la Corredera Baja,57000,San Martín de Valdeiglesias,"['Calle de la Corredera Baja', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,3.0,60,0,0,0,0,0,0
+22,Piso en venta en N-403,54000,San Martín de Valdeiglesias,"['N-403', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,2.0,56,0,0,0,0,0,0
+23,Chalet pareado en venta en San Martín de Valdeiglesias,44900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,2 plantas,2.0,65,0,0,0,0,0,0
+24,Chalet adosado en venta en San Martín de Valdeiglesias,109900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,,3.0,80,1,1,0,0,1,0
+25,Casa de pueblo en venta en San Martín de Valdeiglesias,116900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,3.0,0,2 plantas,2.0,173,0,1,0,0,0,0
+26,Piso en venta en San Martín de Valdeiglesias,119900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,Planta 1ª exterior,2.0,90,1,0,0,1,1,1
+27,Chalet adosado en venta en San Martín de Valdeiglesias,74900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,1,2 plantas,3.0,99,1,0,1,0,1,0
+28,"Casa o chalet independiente en venta en calle de la Corredera Baja, 7",142000,San Martín de Valdeiglesias,"['Calle de la Corredera Baja, 7', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,3 plantas,4.0,220,0,0,1,0,1,1
+29,"Piso en venta en calle del Pilar, 23",120000,San Martín de Valdeiglesias,"['Calle del Pilar, 23', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,Planta 1ª exterior,3.0,75,1,0,1,1,0,0
+30,"Piso en venta en Urb. Corredera Baja, San Martín de Valdeiglesias",57000,Zona suroeste,"['Urb. Corredera Baja', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,3.0,60,0,0,0,0,0,0
+31,"Piso en venta en Urb. Avila (n-403) (de), San Martín de Valdeiglesias",54000,Zona suroeste,"['Urb. AVILA (N-403) (DE)', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,2.0,56,0,0,0,0,0,0
+32,Piso en venta en San Martín de Valdeiglesias,138000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 4ª exterior,3.0,77,0,0,0,0,0,0
+33,Casa de pueblo en venta en Enrique Capdevilla s/n,123500,San Martín de Valdeiglesias,"['Enrique Capdevilla s/n', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,3 plantas,3.0,125,1,0,1,0,1,1
+34,Piso en venta en San Martín de Valdeiglesias,89900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,Bajo exterior,3.0,70,0,1,0,0,1,0
+35,Piso en venta en San Martín de Valdeiglesias,112000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,Planta 3ª exterior,3.0,85,1,1,0,0,1,1
+36,Piso en venta en Doctor Romero,132000,San Martín de Valdeiglesias,"['DOCTOR ROMERO', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",1.0,1.0,0,Planta 1ª exterior,2.0,90,0,1,0,0,1,0
+37,Piso en venta en San Martín de Valdeiglesias,119900,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,Planta 1ª exterior,5.0,129,1,1,0,0,1,1
+38,Piso en venta en San Martín de Valdeiglesias,90000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 2ª exterior,2.0,55,1,0,0,0,1,0
+39,"Piso en venta en calle de Rosario, 30",79000,San Martín de Valdeiglesias,"['Calle de Rosario, 30', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,0,Planta 3ª exterior,3.0,77,0,1,0,1,1,0
+40,Piso en venta en San Martín de Valdeiglesias,116000,Zona suroeste,"['San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,2.0,0,Bajo exterior,3.0,103,1,0,0,1,1,1
+41,"Piso en venta en carretera de Ávila, 4",125000,San Martín de Valdeiglesias,"['Carretera de Ávila, 4', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",1.0,2.0,0,Planta 2ª exterior,3.0,120,1,1,1,0,1,0
+42,"Estudio en venta en calle Colón, 3",50000,San Martín de Valdeiglesias,"['Calle Colón, 3', 'San Martín de Valdeiglesias', 'Zona suroeste, Madrid']",0.0,1.0,1,Planta 2ª exterior,,42,0,0,0,0,0,0
